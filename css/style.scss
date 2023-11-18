@@ -1,7 +1,7 @@
 $white: #ffffff;
 $black: #000000;
 $btnBlack: #151615;
-$primary: #63f74f;
+$primary: #7c0a20;
 
 @mixin main-font {
   font-family: "Poppins", sans-serif;
@@ -295,6 +295,7 @@ a:focus {
 
       span {
         color: $primary;
+        background-color: transparent;
       }
     }
   }
@@ -460,7 +461,7 @@ a:focus {
       a {
         @include hero_btn($black, $white, 8px, 35px, 35px);
         margin: 35px auto 0 auto;
-        box-shadow: 0 0 35px 0 rgba($color: #63f74f, $alpha: .7);
+        box-shadow: 0 0 35px 0 rgba($color: #7c0a20, $alpha: .7);
       }
     }
   }

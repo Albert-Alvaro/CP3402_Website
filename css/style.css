@@ -1,7 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #040000;
-  background-color: #7c0a20;
 }
 
 .layout_padding {
@@ -52,8 +51,6 @@ body {
       -ms-flex-align: center;
           align-items: center;
   text-transform: uppercase;
-  color: #7c0a20;
-  background-color: #7c0a20;
 }
 .heading_container h2 span{
   color: #7c0a20;
@@ -278,12 +275,11 @@ a:focus {
   text-transform: uppercase;
   text-orientation: upright;
   font-weight: bold;
-  color: #ffffff;
+  color: #7c0a20;
 }
 
 .slider_section .slider_heading h2 span {
   color: #7c0a20;
-  background-color: #7c0a20;
 }
 
 .slider_section .detail-box h1 {
@@ -433,7 +429,6 @@ a:focus {
   border: none;
   width: 1px;
   height: 200px;
-  background-color: #7c0a20;
   margin: 2rem 0;
 }
 
