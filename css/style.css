@@ -418,7 +418,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #63f74f;
+  color: #7c0a20;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -427,13 +427,13 @@ a:focus {
   border: none;
   width: 1px;
   height: 200px;
-  background-color: #63f74f;
+  background-color: #7c0a20;
   margin: 2rem 0;
 }
 
 /* end slider section */
 .about_section {
-  color: #ffffff;
+  color: #000;
 }
 
 .about_section .heading_container h2 {
@@ -458,6 +458,7 @@ a:focus {
 
 .about_section .about_container .detail-box p {
   margin-top: 25px;
+  color: #000;
 }
 
 .about_section .about_container .detail-box hr {
@@ -465,7 +466,7 @@ a:focus {
   border: none;
   width: 1.5px;
   height: 125px;
-  background-color: #ffffff;
+  background-color: #3a2f2f9d;
 }
 
 .about_section .about_container .detail-box a {
@@ -476,8 +477,8 @@ a:focus {
   border-radius: 35px;
   color: #ffffff;
   margin: 35px auto 0 auto;
-  -webkit-box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
-          box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
+  -webkit-box-shadow: 0 0 35px 0 rgba(247, 79, 79, 0.7);
+          box-shadow: 0 0 35px 0 rgba(247, 79, 79, 0.7);
 }
 
 .about_section .about_container .detail-box a:hover {
